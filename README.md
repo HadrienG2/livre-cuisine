@@ -1,7 +1,7 @@
-# Livre de recettes commun
+# Livre de cuisine commun
 
-Ce dépôt contient les sources du livre de recettes qui est en ligne à l'adresse
-<https://hadrieng2.github.io/recettes/>.
+Ce dépôt contient les sources du livre de cuisine qui est en ligne à l'adresse
+<https://hadrieng2.github.io/livre-cuisine/>.
 
 Votre mission si vous l'acceptez est de proposer des changements ou ajouter
 d'autres recettes via une _pull request_. Il faut pour cela créer un _fork_,
