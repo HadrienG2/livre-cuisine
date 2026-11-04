@@ -33,10 +33,10 @@ jobs:
     container: docker://gitlab-registry.in2p3.fr/sonny.lion/astro-chef:1.1.2
     env:
       # ...avec une configuration adaptée pour GitHub Pages qui utilise des
-      # URL du style https://hadrieng2.github.io/recettes/ et pas
-      # https://recettes-abcdef.github.io/ comme le fait GitLab dans sa
+      # URL du style https://hadrieng2.github.io/livre-cuisine/ et pas
+      # https://livre-cuisine-abcdef.github.io/ comme le fait GitLab dans sa
       # configuration par défaut, ce qui casse les chemins de fichiers absolus.
-      BASE_URL: "/recettes"
+      BASE_URL: "/livre-cuisine"
 
     # Les étapes indiquent les actions à effectuer, sous forme de séquence
     steps:
