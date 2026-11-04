@@ -44,7 +44,7 @@ jobs:
       # fournis par GitHub ou des tierces parties...
       - name: Check out git repository
         # Documentation sur https://github.com/actions/checkout/
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
 
       # ...tandis que d'autres exécutent un script spécifié par l'utilisateur,
       # ici du bash exécuté au sein d'une image Docker préparée par Sonny
@@ -69,7 +69,7 @@ jobs:
       #   privilèges spéciaux permettant la mise en ligne d'un site.
       - name: Generate and upload the artifact
         # Documentation sur https://github.com/actions/upload-pages-artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-pages-artifact@v5
         with:
           path: dist/
 
@@ -100,5 +100,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: pages
         # Documentation sur https://github.com/actions/deploy-pages
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
