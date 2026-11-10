@@ -30,7 +30,7 @@ jobs:
 
     # On utilise ici le générateur de site statique fourni par Sonny via un
     # conteneur Docker...
-    container: docker://gitlab-registry.in2p3.fr/sonny.lion/astro-chef:1.1.2
+    container: docker://gitlab-registry.in2p3.fr/sonny.lion/astro-chef:1.1.3
     env:
       # ...avec une configuration adaptée pour GitHub Pages qui utilise des
       # URL du style https://hadrieng2.github.io/livre-cuisine/ et pas
@@ -53,7 +53,7 @@ jobs:
           # On déplace les recettes à l'endroit attendu par astro-chef
           cp -r ./recettes $APP_DIR/recettes
           # On génère les pages HTML avec astro-chef
-          (cd $APP_DIR && yarn build)
+          (cd $APP_DIR && pnpm build)
           # On ramène ces pages à un endroit où le runner GitHub peut les voir
           mv $APP_DIR/dist .
 
