@@ -28,7 +28,7 @@ conseils:
 # Préparation
 
 1. Faites chauffer le beurre dans une poêle à feux moyen-doux
-2. Cassez lʼœuf au-dessus de la poêle (pas trop haut pour que le jaune ne se casse pas dans la chute)
-3. Laissez cuire jusquʼà consistance voulue du blanc
+2. Cassez l’œuf au-dessus de la poêle (pas trop haut pour que le jaune ne se casse pas dans la chute)
+3. Laissez cuire jusqu’à consistance voulue du blanc
 4. Assaisonnez avec une pincée de sel
 5. Dégustez

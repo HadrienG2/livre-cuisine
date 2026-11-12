@@ -16,12 +16,12 @@ tags:
   - végétarien
 image: null
 ingredients:
-  - "150 g poudre dʼamande"
-  - "3 blancs dʼœufs"
+  - "150 g poudre d’amande"
+  - "3 blancs d’œufs"
   - "80 g de sucre"
   - "2 cuillères à café de purée de pistache"
 conseils:
-  - "Un peu plus de pistache pour plus de goût, ou nʼhésitez pas à mettre une framboise au milieu"
+  - "Un peu plus de pistache pour plus de goût, ou n’hésitez pas à mettre une framboise au milieu"
 ---
 
 # Préparation
