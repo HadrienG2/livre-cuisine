@@ -9,7 +9,6 @@ temps_de_repos: "2 h"
 difficulté: "Facile"
 portions: "4 personnes"
 catégorie: "Dessert"
-favori: true
 coût: "€"
 tags:
   - rapide
@@ -23,6 +22,8 @@ ingredients:
   - "50 cl de lait"
 conseils:
   - "Laissez reposer la pâte 2 h pour plus de goût !"
+favori: true
+source: null
 ---
 
 # Préparation

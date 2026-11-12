@@ -9,7 +9,6 @@ temps_de_repos: ""
 difficulté: "Moyen"
 portions: "4 personnes (ou 2 si gros mangeurs)"
 catégorie: "Goûter"
-favori: true
 coût: "€€"
 tags:
   - amande
@@ -22,6 +21,8 @@ ingredients:
   - "2 cuillères à café de purée de pistache"
 conseils:
   - "Un peu plus de pistache pour plus de goût, ou n’hésitez pas à mettre une framboise au milieu"
+favori: true
+source: null
 ---
 
 # Préparation
