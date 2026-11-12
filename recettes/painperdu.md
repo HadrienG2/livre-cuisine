@@ -9,7 +9,6 @@ temps_de_repos: ""
 difficulté: "Facile"
 portions: "2 personnes"
 catégorie: "Dessert"
-favori: true
 coût: "€"
 tags:
   - rapide
@@ -23,6 +22,8 @@ ingredients:
   - "50 cl de lait"
 conseils:
   - "Utiliser les restes de pains et parfumer avec ce que vous aimez : cannelle, cardamome..."
+favori: true
+source: null
 ---
 
 # Préparation

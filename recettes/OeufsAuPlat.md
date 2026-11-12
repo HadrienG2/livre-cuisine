@@ -9,7 +9,6 @@ temps_de_repos: ""
 difficulté: "Facile"
 portions: 1 personne
 catégorie: "petit-déj"
-favori: true
 coût: "€"
 tags:
   - rapide
@@ -18,11 +17,10 @@ ingredients:
   - "2 œufs voire 3 pour les gourmands"
   - "une noisette de beurre"
   - "1 pincée de sel"
-ustensiles:
-  - une poêle
-  - une spatule
 conseils:
   - "Ne conserver pas vos œufs au frigo"
+favori: true
+source: null
 ---
 
 # Préparation
