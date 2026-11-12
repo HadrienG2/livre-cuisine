@@ -12,7 +12,7 @@ jobs:
       - name: Extraction des fichiers
         uses: actions/checkout@v7
       - name: Exécution de grammalint avec rapport JSON
-        run: python -m grammalint --skip-frontmatter-keys auteur,favori -i recettes/**/*.md -o report.json
+        run: python -m grammalint --skip-frontmatter-keys auteur favori -i recettes/**/*.md -o report.json
       - name: Mise en ligne du rapport JSON
         uses: actions/upload-artifact@v7
         with:
