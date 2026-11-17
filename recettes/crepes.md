@@ -5,7 +5,7 @@ auteur: "Moi"
 date: 2025-10-06
 temps_de_préparation: "10 min"
 temps_de_cuisson: "15 min"
-temps_de_repos: "2 h"
+temps_de_repos: "3 h"
 difficulté: "Facile"
 portions: "4 personnes"
 catégorie: "Dessert"
@@ -30,7 +30,7 @@ source: null
 
 1. Mélangez la farine, le sucre et le sel.
 2. Ajoutez les œufs puis le lait progressivement en fouettant.
-3. Laissez reposer 30 min.
+3. Laissez reposer 3 heures.
 4. Faites cuire les crêpes dans une poêle chaude légèrement huilée.
 
 Et maintenant, régalez-vous !
