@@ -7,7 +7,7 @@ temps_de_préparation: "12 min"
 temps_de_cuisson: "0 min"
 temps_de_repos: ""
 difficulté: "Facile"
-portions: "1 personnes"
+portions: "1 personne"
 catégorie: "Dessert"
 coût: "€"
 tags:
@@ -26,7 +26,7 @@ source: null
 
 # Préparation
 
-0. Choisir des fruits se marriant bien.
+0. Choisir des fruits se mariant bien.
 1. Laver les fruits.
 2. Éplucher et dénoyauter ou épépiner les fruits le nécessitant.
 3. Couper les fruits en morceaux.
