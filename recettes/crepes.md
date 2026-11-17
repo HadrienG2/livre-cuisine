@@ -6,7 +6,7 @@ date: 2025-10-06
 temps_de_préparation: "10 min"
 temps_de_cuisson: "15 min"
 temps_de_repos: "2 h"
-difficulté: "Facile"
+difficulté: "Très facile"
 portions: "4 personnes"
 catégorie: "Dessert"
 coût: "€"
