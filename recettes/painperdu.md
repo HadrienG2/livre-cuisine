@@ -29,6 +29,6 @@ source: null
 # Préparation
 
 1. Casser l’œuf dans une assiette creuse. Mélanger avec le lait et le sucre.
-2. Rajouter les éventuelles épices (cannelle, cardamome, vanille...).
+2. Rajouter les éventuelles épices (cannelle, cardamome, vanille…).
 3. Tremper le pain dans le mélange, retourner la tranche dans le mélange.
 4. Faire fondre le beurre dans une poêle. Déposer les tranches de pain et cuire 2 minutes à feu doux. Retourner les tranches et cuire 2 minutes à nouveau.
