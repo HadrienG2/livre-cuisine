@@ -1,7 +1,7 @@
 ---
-titre: "Quenelles de ma grand mère"
+titre: "Quenelles de ma grand-mère"
 description: "Une recette quenelles à base de semoule."
-auteur: "Moi"
+auteur: "Ma grand-mère"
 date: 2026-11-17
 temps_de_préparation: "60 min"
 difficulté: "Moyen"
@@ -23,11 +23,11 @@ source: null
 
 # Préparation
 
-1. Mettez le lait, sel, beurre dans une casserole, à ébullition ajoutez la semoule d'un seul coups.
-2. Remuez sur feu doux jusqu'à ce que la masse se fasse qu'un morceau et ce détache de la casserole.
-3. Laissez refroidir, mélanger les oeufs un à un en tournant.
+1. Mettez le lait, sel, beurre dans une casserole, à ébullition ajoutez la semoule d'un seul coup.
+2. Remuez sur feu doux jusqu'à ce que le mélange ne fasse qu'un morceau et ce détache de la casserole.
+3. Laissez refroidir, mélangez les œufs un à un en tournant.
 4. Quand la pâte est refroidie, roulez les quenelles sur une planche farinée.
 5. Pochez les quenelles dans l'eau boullante.
 6. Retirez-les au fur et à mesure qu'elles remontent à la surface
-7. Les servir avec une sauce tomate ou une sauce bechamel.
+7. Servez-les avec une sauce tomate ou une sauce bechamel.
 
