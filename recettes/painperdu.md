@@ -17,11 +17,11 @@ image: null
 ingredients:
   - "4 tranches de pain"
   - "1 œuf"
-  - "1 cuillère à soupe de sucre"
+  - "1 cuillère à soupe de sucre de canne"
   - "20 g de beurre"
   - "50 cl de lait"
 conseils:
-  - "Utiliser les restes de pains et parfumer avec ce que vous aimez : cannelle, cardamome..."
+  - "Utiliser les restes de pain (au moins de la veille) et parfumer avec ce que vous aimez : cannelle, cardamome, vanille..."
 favori: true
 source: null
 ---
@@ -29,5 +29,6 @@ source: null
 # Préparation
 
 1. Casser l’œuf dans une assiette creuse. Mélanger avec le lait et le sucre.
-2. Tremper le pain dans le mélange, retourner la tranche dans le mélange.
-3. Faire fondre le beurre dans une poêle. Déposer les tranches de pain et cuire 2 minutes à feu doux. Retourner les tranches et cuire 2 minutes à nouveau.
+2. Rajouter les éventuelles épices (cannelle, cardamome, vanille…).
+3. Tremper le pain dans le mélange, retourner la tranche dans le mélange.
+4. Faire fondre le beurre dans une poêle. Déposer les tranches de pain et cuire 2 minutes à feu doux. Retourner les tranches et cuire 2 minutes à nouveau.

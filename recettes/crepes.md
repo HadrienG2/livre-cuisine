@@ -30,7 +30,7 @@ source: null
 
 1. Mélangez la farine, le sucre et le sel.
 2. Ajoutez les œufs puis le lait progressivement en fouettant.
-3. Laissez reposer 3 heures.
+3. Laissez reposer 3 heures.
 4. Faites cuire les crêpes dans une poêle chaude légèrement huilée.
 
 Et maintenant, régalez-vous !
