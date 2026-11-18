@@ -1,6 +1,11 @@
 name: "Vérification grammaire/orthographe"
 
-on: push
+on:
+  push:
+    branches: ["main"]
+    tags: ["*"]
+  pull_request:
+    branches: ["main"]
 
 jobs:
   grammaire_et_orthographe:
