@@ -1,13 +1,13 @@
 ---
 titre: "Chocolat chaud"
-description: "Une recette réconfortante lorsqu'il pleut ou neige."
+description: "Une recette réconfortante lorsqu’il pleut ou neige."
 auteur: "Universel"
 date: 2026-11-17
-temps_de_préparation: "1 min"
-temps_de_cuisson: "5 min"
-temps_de_repos: "20 sec"
+temps_de_préparation: "1 min"
+temps_de_cuisson: "5 min"
+temps_de_repos: "20 secs"
 difficulté: "Très facile"
-portions: "4 personnes"
+portions: "4 personnes"
 catégorie: "Dessert"
 coût: "€"
 tags:
@@ -15,9 +15,9 @@ tags:
   - végétarien
 image: null
 ingredients:
-  - "1 L de lait"
-  - "20 g de chocolat"
-  - "2 g de sucre"
+  - "1 L de lait"
+  - "20 g de chocolat"
+  - "2 g de sucre"
 favori: true
 source: null
 ---
@@ -28,4 +28,4 @@ source: null
 2. Ajoutez le chocolat et le sucre.
 3. Mélangez doucement.
 
-Et maintenant, régalez-vous !
+Et maintenant, régalez-vous !
