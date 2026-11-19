@@ -27,7 +27,7 @@ source: null
 2. Remuez sur feu doux jusqu’à ce que le mélange ne fasse qu’un morceau et se détache de la casserole.
 3. Laissez refroidir, mélangez les œufs un à un en tournant.
 4. Quand la pâte est refroidie, roulez les quenelles sur une planche farinée.
-5. Pochez les quenelles dans l’eau boullante.
+5. Pochez les quenelles dans l’eau bouillante.
 6. Retirez-les au fur et à mesure qu’elles remontent à la surface
 7. Servez-les avec une sauce tomate ou une sauce béchamel.
 
